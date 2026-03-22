@@ -1,0 +1,11 @@
+networkx
+pandas
+psutil
+numpy
+psycopg2-binary
+neo4j
+pymongo
+python-arango
+matplotlib
+seaborn
+
